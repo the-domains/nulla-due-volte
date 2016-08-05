@@ -1,15 +1,15 @@
 ---
-datePublished: '2016-08-05T15:53:46.115Z'
+datePublished: '2016-08-05T15:54:14.232Z'
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/b5057680-0530-47eb-9100-8a2dc85b2913.jpg
 author: []
 via: {}
-dateModified: '2016-07-23T15:38:33.814Z'
+dateModified: '2016-08-05T15:54:14.123Z'
 title: La tua valigia
 publisher: {}
 description: ''
-starred: false
 sourcePath: _posts/2016-08-05-la-tua-valigia.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
