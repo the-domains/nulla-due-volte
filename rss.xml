@@ -2,10 +2,10 @@
     <channel>
         <title><![CDATA[Nulla due volte]]></title>
         <description><![CDATA[Nulla due volte]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://nulladuevolte.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 Aug 2016 15:53:48 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 05 Aug 2016 15:54:37 GMT</lastBuildDate>
+        <atom:link href="http://nulladuevolte.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[La tua valigia]]></title>
             <description><![CDATA[<article><h1>La tua valigia</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4cddadac52fa51f2556b3a69c1ef914d/croprotate.jpg?cropheight=1641&cropwidth=2209&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fb5057680-0530-47eb-9100-8a2dc85b2913.jpg&x=0&y=0"></article>]]></description>
