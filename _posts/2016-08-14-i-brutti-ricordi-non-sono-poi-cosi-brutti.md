@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-14T15:02:17.890Z'
+datePublished: '2016-08-17T20:19:59.609Z'
 sourcePath: _posts/2016-08-14-i-brutti-ricordi-non-sono-poi-cosi-brutti.md
 author: []
 via: {}
-dateModified: '2016-08-14T15:01:36.930Z'
+dateModified: '2016-08-17T20:19:58.747Z'
 title: I brutti ricordi non sono poi così brutti
 publisher: {}
 description: ''
