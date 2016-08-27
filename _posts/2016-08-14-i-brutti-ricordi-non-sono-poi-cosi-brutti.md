@@ -1,12 +1,15 @@
 ---
-datePublished: '2016-08-17T20:19:59.609Z'
+datePublished: '2016-08-26T16:22:43.609Z'
 sourcePath: _posts/2016-08-14-i-brutti-ricordi-non-sono-poi-cosi-brutti.md
 author: []
 via: {}
-dateModified: '2016-08-17T20:19:58.747Z'
+dateModified: '2016-08-26T16:22:42.636Z'
 title: I brutti ricordi non sono poi così brutti
 publisher: {}
-description: ''
+description: >-
+  L'attenzione della ricerca si sta portando da qualche anno sulla possibilità
+  di cancellare i ricordi negativi. Si cerca di utilizzare tecniche psicologiche
+  e addirittura farmaci in grado di farlo.
 starred: false
 inFeed: true
 hasPage: false
